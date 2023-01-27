@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="c7bb63a7-8c21-4b17-b14c-59baf9a3c19b" name="DDL Mapping">
+      <data-sources db="80c95a9d-de03-439e-b3e1-818e4fd636cc" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="f4c454c6-c090-49aa-8a21-9781631c6b27" name="ormbase Mapping">
+      <data-sources db="e2965733-959f-498b-b546-7a012259f1fc" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
